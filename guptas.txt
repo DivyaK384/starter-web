@@ -18,4 +18,6 @@ Reference  -- TN Books 6th
 
 ** This line created in title-change branch . Please save and close" 
 
-//changes done in copy-right branch // 
+//changes done in copy-right branch //  
+
+** Hi all ... This covers information about guptas and the change has been made in realwork branch by divya"
