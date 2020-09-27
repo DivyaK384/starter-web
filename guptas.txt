@@ -13,10 +13,4 @@ Vardhana dynasty ruled North India from
 606 to 647 A.D (CE). 
 
 
-This is done by divya.
-Reference  -- TN Books 6th 
-
-** This line created in title-change branch . Please save and close" 
-
-//changes done in copy-right branch //  
-
+** Adding more information about guptas ** Especially Chandra Gupta Mourya** -- Ref -- Divya 
