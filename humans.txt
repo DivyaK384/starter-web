@@ -6,10 +6,11 @@
     <name> -- <role> -- <twitter>
 	Jerry -- SME  --- No twitter
 	Jack -- Master -- jack.Master@gmail.com
+	<< Amiliya -- Lead -- yet to be done>>
 
 # THANKS
 
-    Jaison
+    Irshita
 
 # TECHNOLOGY COLOPHON
 
