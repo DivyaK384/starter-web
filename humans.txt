@@ -4,10 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Jerry -- SME  --- No twitter
+	Jack -- Master -- jack.Master@gmail.com
 
 # THANKS
 
-    <name>
+    Jaison
 
 # TECHNOLOGY COLOPHON
 
