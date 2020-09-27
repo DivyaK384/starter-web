@@ -15,5 +15,9 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3  == Tom C
+    jQuery, Modernizr == Jerry
+	Json, Hadoop == Suryakala
+	C,CPP = Sreevidya
+	
+	
