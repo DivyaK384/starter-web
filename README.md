@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction 
 
-This is my first git readme file
+GitHub offers its basic services free of charge. Its more advanced professional and enterprise services are commercial.[6] Free GitHub accounts are commonly used to host open-source projects.
 
 ## Purpose
 
