@@ -8,7 +8,7 @@ GitHub offers its basic services free of charge. Its more advanced professional 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+The main purpose of GitHub.com is to facilitate the version control and issue tracking aspects of software development. 
 
 ## deployment
 
