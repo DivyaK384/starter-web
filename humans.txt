@@ -19,6 +19,7 @@
     jQuery, Modernizr == Jerry
 	Json, Hadoop == Suryakala
 	C,CPP = Sreevidya
-	Perl  == By Meera and Madhu 
+	Java,Jspring -- Pooja P
 	
 	
+** All tha above tech classes are scheduled for corresponding staffs , so please go through and contact Divya for clarification, if any... **
