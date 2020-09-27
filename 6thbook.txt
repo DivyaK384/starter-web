@@ -1,4 +1,6 @@
-** I am going to add information about cheras. This is newly edited ** 
+** I am going to add information about cheras. This is newly edited **  
+
+** Edition part II release in simple branch "
 
 Cheras
 Muvendars (Three Great Kings) controlled the territories of Tamizhagam during the
