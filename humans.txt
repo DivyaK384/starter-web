@@ -8,6 +8,17 @@
 	Jack -- Master -- jack.Master@gmail.com
 	<< Amiliya -- Lead -- yet to be done>>
 	Mishra -- Master Lead -- Mishra.Jone @gmail.com
+	Additional Team Members:
+	Names are added and other access are yet to be done.
+		*divya
+		*sultan
+		*sanatan
+		*Chandan
+		*Ranjani
+		*Penty
+		*Will Jay
+	
+	
 
 # THANKS
 
@@ -27,4 +38,10 @@
 	Java,Jspring -- Pooja P
 	
 	
+<<<<<<< HEAD
 ** All tha above tech classes are scheduled for corresponding staffs , so please go through and contact Divya for clarification, if any... **
+=======
+	
+	
+** All tha above tech classes are scheduled for corresponding staffs , so please go through and contact Divya for clarification, if any... **
+>>>>>>> ce08bd0... Added additional Team members
