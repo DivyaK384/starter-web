@@ -19,5 +19,6 @@
     jQuery, Modernizr == Jerry
 	Json, Hadoop == Suryakala
 	C,CPP = Sreevidya
+	Perl  == By Meera and Madhu 
 	
 	
